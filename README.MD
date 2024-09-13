@@ -1,6 +1,6 @@
 # Zen Word Game Solver
 
-My girlfriend loves this game, so I made this simple program to help her find words when she gets stuck.
+I made this simple program to help find words when I gets stuck.
 
 ## Usage
 
